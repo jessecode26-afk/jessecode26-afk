@@ -23,7 +23,7 @@ Gosto de aprender coisas novas, trabalhar em equipe e estou sempre em busca de e
 
 ## 🎯 No que estou focando agora
 
-- Aprimorando minhas habilidades com **React Native** e **Node.js**  
+- Aprimorando minhas habilidades com **HTML, CSS, React, Typescript e Node.JS**  
 - Aprofundando meus conhecimentos em **TypeScript**  
 
 ---
