@@ -25,7 +25,7 @@ Gosto de aprender coisas novas, trabalhar em equipe e estou sempre em busca de e
 
 - Aprimorando minhas habilidades com **React Native** e **Node.js**  
 - Aprofundando meus conhecimentos em **TypeScript**  
-- Melhorando minha fluência em **Inglês técnico**
+
 
 ---
 
