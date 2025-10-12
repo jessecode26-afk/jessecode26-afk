@@ -13,7 +13,7 @@ Sou um desenvolvedor em formação, com grande entusiasmo por criar soluções q
 Tenho estudado e praticado com tecnologias como:
 
 - **HTML, CSS, JavaScript**
-- **React, React Native**
+- **React , React Native**
 - **Node.js**
 - **Firebase, APIs REST**
 - **Git e GitHub para controle de versão**
