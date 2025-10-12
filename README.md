@@ -26,15 +26,6 @@ Gosto de aprender coisas novas, trabalhar em equipe e estou sempre em busca de e
 - Aprimorando minhas habilidades com **React Native** e **Node.js**  
 - Aprofundando meus conhecimentos em **TypeScript**  
 
-
----
-
-📫 **Como me encontrar:**
-
-- [LinkedIn](https://www.linkedin.com/in/jesse-s-p/)  
-- [Email](jessecode26@gmail.com)  
-- [Portfólio (caso tenha)](https://www.linkedin.com/in/jesse-s-p/)
-
 ---
 
 > *Provérbios 16:3
